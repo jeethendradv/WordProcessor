@@ -1,0 +1,8 @@
+H:\Projects\WordProcessor\WordProcessor\bin\Debug\WordProcessor.exe.config
+H:\Projects\WordProcessor\WordProcessor\bin\Debug\WordProcessor.exe
+H:\Projects\WordProcessor\WordProcessor\bin\Debug\WordProcessor.pdb
+H:\Projects\WordProcessor\WordProcessor\obj\Debug\WordProcessor.csprojResolveAssemblyReference.cache
+H:\Projects\WordProcessor\WordProcessor\obj\Debug\WordProcessor.exe
+H:\Projects\WordProcessor\WordProcessor\obj\Debug\WordProcessor.pdb
+H:\Projects\WordProcessor\WordProcessor\bin\Debug\Data\testing.txt
+H:\Projects\WordProcessor\WordProcessor\bin\Debug\Data\wordlist.txt
